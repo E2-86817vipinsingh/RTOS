@@ -1,0 +1,6 @@
+../Src/main.c:30:6:vMainTaskFunction	16	static
+../Src/main.c:48:6:vTask1	16	static
+../Src/main.c:59:6:vTask2	16	static
+../Src/main.c:71:6:vTask3	16	static
+../Src/main.c:81:6:vTask4	16	static
+../Src/main.c:91:5:main	16	static
